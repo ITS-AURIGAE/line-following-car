@@ -17,11 +17,11 @@ A Line Follower Robot, as the name suggests, is an automated guided vehicle, whi
 [Geared Motors x 2](https://www.amazon.in/Sparklebox-Single-Soldered-Shrink-wrapped/dp/B09LHKQXKM/ref=sr_1_1_sspa?crid=2YK1VXTE13VDN&keywords=dc+bo+motor&qid=1641201619&s=industrial&sprefix=dc+bo+motors%2Cindustrial%2C214&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVEVSTkZGOEhHVkhFJmVuY3J5cHRlZElkPUEwNTgxMjI4M05LRzFRODNCUUhBWSZlbmNyeXB0ZWRBZElkPUEwNjcwNDk4WlBYNzJPRkJZVlc2JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) 
 [Robot Chassis ](https://www.amazon.in/INVENTO-Chassis-Platform-260x160x45mm-Geared/dp/B07WFPGTW2/ref=sr_1_4?crid=1MQYS9TBMX32H&keywords=robot+chassis&qid=1641201648&s=industrial&sprefix=robot+chassis%2Cindustrial%2C212&sr=1-4)
 [IR Sensor Module x 2](https://www.amazon.in/ApTechDeals-Infrared-Reflective-Photoelectric-Intensity/dp/B07Q1BSSFN/ref=sr_1_2?crid=1JJ1FSFL0P1VX&keywords=ir+sensor&qid=1641201689&s=industrial&sprefix=ir+senso%2Cindustrial%2C216&sr=1-2)
-[Black Tape (Electrical Insulation Tape)]
-[Connecting Wires]
-[Power supply] 
-[Battery Connector]
-[Battery Holder]
+  Black Tape (Electrical Insulation Tape)
+  Connecting Wires
+  Power supply
+  Battery Connector
+  Battery Holder
 
 ## circuit diagram for the project
 ---
